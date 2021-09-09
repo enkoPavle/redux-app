@@ -1,0 +1,16 @@
+.todo-list__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: solid 2px #263d26;
+  margin-bottom: 10px;
+}
+
+.todo-list__item__text {
+  font-size: 24px;
+  color: #263d26;
+}
+
+.todo-list__item__check-box {
+  color: #263d26;
+}

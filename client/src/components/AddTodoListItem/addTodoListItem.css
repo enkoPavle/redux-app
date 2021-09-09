@@ -1,0 +1,21 @@
+.add-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 400px;
+    width: 100%;
+}
+.add-list__input {
+    height: 42px;
+    font-size: 24px;
+
+}
+.add-list__button {
+    width: 64px;
+    height: 42px;
+    text-transform: uppercase;
+    background-color: #263d26;
+    color: white;
+
+
+}
